@@ -1,4 +1,5 @@
 This repo is updated and published with new npm module name "react-search-select". It is supported with React 16.
+https://www.npmjs.com/package/react-search-select
 
 A general-purpose search bar, built in React. View the [demo](https://vakhtang.github.io/react-search-bar).
 
